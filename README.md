@@ -16,4 +16,7 @@ watch me! I'm learning new things bruh
 
 1. git push -u origin name-of-the-branch 
 
-example: git push -u origin feature-readme-instructions [feature-readme-instrictions] is the name of the created branch
+example: git push -u origin feature-readme-instructions [new-branch] is the name of the created branch
+
+
+my name is  erice niyikomeye
