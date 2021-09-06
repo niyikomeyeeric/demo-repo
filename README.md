@@ -20,3 +20,10 @@ example: git push -u origin feature-readme-instructions [new-branch] is the name
 
 
 my name is  erice niyikomeye
+
+
+this the new line created in the new branch created.
+
+
+
+wow!
